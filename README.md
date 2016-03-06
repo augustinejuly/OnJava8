@@ -2,7 +2,7 @@
 This project has been created for learning the features in Java8<br /><br />
 
 Packages:<br />
-Lambda Introduction - com.demo.lambdas<br />
+Lambda Introduction - [com.demo.lambdas](https://github.com/augustinejuly/OnJava8/tree/master/src/main/java/com/demo/lambdas)<br />
 Method References - com.demo.methodref<br />
 Lambda examples - com.demo.lambda.examples<br />
 Streams examples - com.demo.streams.examples<br />
