@@ -1,11 +1,11 @@
 # OnJava8
-This project has been created for learning the features in Java8
+This project has been created for learning the features in Java8<br /><br />
 
-Packages:
-Lambda Introduction - com.demo.lambdas
-Method References - com.demo.methodref
-Lambda examples - com.demo.lambda.examples
-Streams examples - com.demo.streams.examples
-Interfaces in Java 8 - com.demo.interfaces
-Date and Time Examples - com.demo.datetime
-Best practices - com.demo.learnings
+Packages:<br />
+Lambda Introduction - com.demo.lambdas<br />
+Method References - com.demo.methodref<br />
+Lambda examples - com.demo.lambda.examples<br />
+Streams examples - com.demo.streams.examples<br />
+Interfaces in Java 8 - com.demo.interfaces<br />
+Date and Time Examples - com.demo.datetime<br />
+Best practices - com.demo.learnings<br />
